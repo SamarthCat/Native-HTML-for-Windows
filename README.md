@@ -37,6 +37,8 @@ Speed was tested with "http://www.speed-battle.com/speedtest_e.php".
 
 Runtime Libraries are installed on first launch, therefore, users will need an internet connection when using the app for the first time. This is done to keep the bundle size low and so that only one *Runtime* folder is needed for all apps based on Native HTML.
 
+Extract the latest release marked *App*, this will be the folder where all your app files will be, this will be the folder that you will publish, no building or compiling necessary.
+
 Delete all the files in the *Client* folder, except for *mimetypes.txt*.
 
 Import the files from your web app into the *Client* folder, ensure there is an *index.html* file present otherwise the app won't work.
