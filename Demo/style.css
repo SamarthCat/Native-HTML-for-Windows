@@ -1,0 +1,51 @@
+@keyframes fadeIn {
+    0%{
+        opacity: 0%;
+    }
+    100%{
+        opacity: 100%;
+    }
+}
+
+.fade {
+    animation-duration: 3s;
+    animation-name: fadeIn;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: auto;
+    background-image: url("./Background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+table{
+    padding: 40px;
+    width: 100vw;
+    text-align: center;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.header-img{
+    margin: auto;
+    width: 80vw;
+}
+
+body{
+    overflow-x: hidden;
+    margin: 0%;
+    width: 100%;
+    max-width: 100%;
+    font-family: 'Montserrat', 'sans serif';
+}
