@@ -15,6 +15,7 @@ It is built on chromium with C# and python.
 |      Supports features like sound, drag and drop, and file select      |                                                                |
 |                 Supports custom icons and window titles                |                                                                |
 | Excellent performance compared to other chromium browsers and electron |                                                                |
+|      Ultra low memory usage (the default page uses less than 40mb)     |                                                                |
 
 # How It Works
 
