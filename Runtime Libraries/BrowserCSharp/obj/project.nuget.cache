@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "gb2b+MTz88R4PTg3kgFt8rzFYoqZ1/Wg5+GcDOrHYhcFCMu3tAy6ofw+6uF/kazLlun7Lqy2QfmuIdYZElytmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SamarthCat™\\source\\repos\\BrowserCSharp\\BrowserCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SamarthCat™\\.nuget\\packages\\cef.redist.x64\\94.4.5\\cef.redist.x64.94.4.5.nupkg.sha512",
+    "C:\\Users\\SamarthCat™\\.nuget\\packages\\cef.redist.x86\\94.4.5\\cef.redist.x86.94.4.5.nupkg.sha512",
+    "C:\\Users\\SamarthCat™\\.nuget\\packages\\cefsharp.common\\94.4.50\\cefsharp.common.94.4.50.nupkg.sha512",
+    "C:\\Users\\SamarthCat™\\.nuget\\packages\\cefsharp.winforms\\94.4.50\\cefsharp.winforms.94.4.50.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CefSharp.WinForms 94.4.50' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "CefSharp.WinForms",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
