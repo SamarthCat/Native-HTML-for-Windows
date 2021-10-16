@@ -1,6 +1,8 @@
 # Native HTML for Windows
 
-Native HTML is an easy and ultra lightweight wrapper for running web apps natively on windows.
+![Native HTML Demonstration](https://github.com/SamarthCat/Native-HTML-for-Windows/blob/main/Images/Thumbnail.png)
+
+Native HTML is an easy and ultra-lightweight wrapper for running web apps natively on windows.
 It is built on chromium with C# and python.
 
 # Pros and Cons
@@ -16,7 +18,7 @@ It is built on chromium with C# and python.
 
 # How It Works
 
-The launcher is made with python. The launcher downloads the runtime libraries and runs it, telling it where the app files are located.
+The launcher is made with python. It downloads the runtime libraries and runs it, telling it where the app files are located.
 The runtime libraries are made in C# and do the majority of the work.
 It starts an internal server on an available port, and connects to it using an instance of chromium.
 
